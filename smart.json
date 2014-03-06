@@ -1,0 +1,9 @@
+{
+  "name": "meteor-mozila-brick",
+  "description": "Mozilla Brick packaged for use in Meteor projects.",
+  "homepage": "https://github.com/buttreygoodness/meteor-mozilla-brick",
+  "author": "Jeff Adkins (http://readypress.com)",
+  "version": "0.0.1",
+  "git": "https://github.com/buttreygoodness/meteor-mozilla-brick.git",
+  "packages": {}
+}
